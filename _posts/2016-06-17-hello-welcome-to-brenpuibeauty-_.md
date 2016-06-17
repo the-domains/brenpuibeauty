@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-06-17T08:08:51.402Z'
-datePublished: '2016-06-17T08:08:55.001Z'
+dateModified: '2016-06-17T08:11:13.849Z'
+datePublished: '2016-06-17T08:11:18.107Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-hello-welcome-to-brenpuibeauty-_.md
