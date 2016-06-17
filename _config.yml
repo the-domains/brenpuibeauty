@@ -1,0 +1,14 @@
+layout_spectrum: 0.4244464454241097
+typography_spectrum: 0.7983105005696416
+color:
+  brandStrength: 0.6339206842239946
+  lightness: 0.6373475166037679
+  saturation: 0.49321475462056696
+  rhythmicContrast: 0.7487336099147797
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: BrenPuiBeauty
