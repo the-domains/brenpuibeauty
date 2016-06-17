@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Bren Pui Beauty]]></title>
         <description><![CDATA[Bren Pui Beauty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brenpuibeauty0192837465/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 08:22:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 08:22:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brenpuibeauty0192837465/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f3505bc-a032-451e-bb55-ee5a5a5a5bfb.png">]]></description>
-            <link>undefinede6294dc8-333a-47d8-a3ef-e1870f29f846/index.html</link>
+            <link>https://thegrid.ai/brenpuibeauty0192837465/e6294dc8-333a-47d8-a3ef-e1870f29f846/index.html</link>
             <guid isPermaLink="false">e6294dc8-333a-47d8-a3ef-e1870f29f846</guid>
             <pubDate>Fri, 17 Jun 2016 08:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nurture Skin]]></title>
+            <description><![CDATA[<article><h1>Nurture Skin</h1><h2>Did you know?</h2><p>Mulberries, like other berries, are rich in anti-oxidants which are renowned as effective anti-aging agents.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f117122-992f-41ab-b317-2db364d661e7.png"></article>]]></description>
+            <link>https://thegrid.ai/brenpuibeauty0192837465/nurture-skin/index.html</link>
+            <guid isPermaLink="false">fd9d9e7a-a9c6-4b92-929d-eaacef215846</guid>
+            <pubDate>Fri, 17 Jun 2016 08:22:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
