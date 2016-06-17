@@ -11,4 +11,6 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-name: BrenPuiBeauty
+name: Bren Pui Beauty
+content_rating:
+  adult: true
