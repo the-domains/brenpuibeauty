@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BrenPuiBeauty]]></title>
+        <description><![CDATA[BrenPuiBeauty]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 07:37:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nurture Skin]]></title>
+            <description><![CDATA[<article><h1>Nurture Skin</h1><p>Antioxidants and Premature Aging: Mulberries also boast a high level of vitamin A and vitamin E, as along with a range of carotenoid components like lutein, beta carotene, zea-xanthin, and alpha carotene. All of these elements act as antioxidants that specifically affect the skin, tissue,hair, and other areas of the body where free radicals strike. Mulberries can help keep skin looking smooth, reduce the appearance of blemishes and age spots, and keep hair shiny and healthy by preventing the oxidative actions of free radicals.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f117122-992f-41ab-b317-2db364d661e7.png"></article>]]></description>
+            <link>undefinednurture-skin/index.html</link>
+            <guid isPermaLink="false">fd9d9e7a-a9c6-4b92-929d-eaacef215846</guid>
+            <pubDate>Fri, 17 Jun 2016 07:37:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
